@@ -1,0 +1,4 @@
+%{"cberl": {:git, "https://github.com/chitika/cberl.git", "400190257bfc290def84491bdbf082507e78e5c5", []},
+  "jiffy": {:git, "git://github.com/davisp/jiffy.git", "06aaf440e091c9fd5f8aea557ac760a33bd37130", [branch: "master"]},
+  "poison": {:hex, :poison, "3.1.0", "d9eb636610e096f86f25d9a46f35a9facac35609a7591b3be3326e99a0484665", [:mix], []},
+  "poolboy": {:git, "git://github.com/devinus/poolboy.git", "d378f996182daa6251ad5438cee4d3f6eb7ea50f", [branch: "master"]}}
